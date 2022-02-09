@@ -1,5 +1,8 @@
 # Gesture-Phase-Recognition
 Using a dataset about gestures phase segmentation attributes, the goal is to predict different kind of phases. This project was done in the context of a machine learning competition.
+
+Here are some examples of what i did : 
+
 ![First model](https://user-images.githubusercontent.com/59508102/153220864-0fb86d0f-40e0-4d6a-b5a8-e4eb6bb64fbb.jpg)
 ![1 visu](https://user-images.githubusercontent.com/59508102/153220871-05b473e9-ab54-4a1d-8a46-5d94443dd7a0.jpg)
 ![2 visu](https://user-images.githubusercontent.com/59508102/153220879-7a63b274-01da-4881-99fc-fe467ae74653.jpg)
